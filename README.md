@@ -1,6 +1,6 @@
 # Principal Component Analysis (PCA)
 
-This project demonstrates the implementation of Principal Component Analysis (PCA) using Python. PCA is a powerful statistical technique used to reduce the dimensionality of datasets, increasing interpretability while minimizing information loss.
+This project demonstrates the implementation of Principal Component Analysis (PCA) using Python & R. PCA is a powerful statistical technique used to reduce the dimensionality of datasets, increasing interpretability while minimizing information loss.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
